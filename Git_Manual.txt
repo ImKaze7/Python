@@ -4,3 +4,4 @@ git commit -m "Primer viaje" --> registra el viaje
 git push origin main --> envía los archivos al servidor
 
 git clone https://github.com/ImKaze7/Python.git --> clona el repositorio
+git log --> permite ver los viajes, y para salir, apretas la Q
