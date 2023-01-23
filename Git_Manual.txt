@@ -1,0 +1,6 @@
+git status --> ver estado
+git add . --> añadir archivos
+git commit -m "Primer viaje" --> registra el viaje
+git push origin main --> envía los archivos al servidor
+
+git clone https://github.com/ImKaze7/Python.git --> clona el repositorio
