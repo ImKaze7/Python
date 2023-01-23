@@ -2,6 +2,6 @@ git status --> ver estado
 git add . --> añadir archivos
 git commit -m "Primer viaje" --> registra el viaje
 git push origin main --> envía los archivos al servidor
-
+git pull origina main --> actualiza el servidor
 git clone https://github.com/ImKaze7/Python.git --> clona el repositorio
 git log --> permite ver los viajes, y para salir, apretas la Q
